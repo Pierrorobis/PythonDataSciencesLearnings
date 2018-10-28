@@ -1,2 +1,30 @@
 .idea/
 .DS_Store
+*.png
+*.csv
+*.txt
+Jupyter/Data-Capstone-Projects/all_banks
+Jupyter/Data-Capstone-Projects/all_banksPR
+*.html
+*.pdf
+Jupyter/Machine Learning Sections/K-Means-Clustering/College_Data
+Jupyter/Machine Learning Sections/K-Nearest-Neighbors/Classified Data
+Jupyter/Machine Learning Sections/K-Nearest-Neighbors/KNN_Project_Data
+Jupyter/Machine Learning Sections/Linear-Regression/Ecommerce Customers
+Jupyter/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/SMSSpamCollection
+Jupyter/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/readme
+*.zip
+Jupyter/Python-for-Data-Visualization/Pandas Built-in Data Viz/df1
+Jupyter/Python-for-Data-Visualization/Pandas Built-in Data Viz/df2
+Jupyter/Python-for-Data-Visualization/Pandas Built-in Data Viz/df3
+Jupyter/Python-for-Data-Visualization/Geographical Plotting/2011_US_AGRI_Exports
+Jupyter/Python-for-Data-Visualization/Geographical Plotting/2012_Election_Data
+Jupyter/Python-for-Data-Visualization/Geographical Plotting/2014_World_GDP
+Jupyter/Python-for-Data-Visualization/Geographical Plotting/2014_World_Power_Consumption
+Jupyter/Python-for-Data-Analysis/Pandas/multi_index_example
+*.xls
+*.xlsx
+*.item
+*.data
+Jupyter/Machine Learning Sections/Recommender-Systems/Movie_Id_Titles
+.ipynb_checkpoints
