@@ -1,29 +1,14 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This repo is for data sciences learnings only usinf jupyter and pycharm if wanted
 
-### How do I get set up? ###
+### How do I launch jupyter ? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Repo for Python Data Science and Machine Learning Bootcamp
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+In order to launch Jupyter notebook inside pycharm:
+1- launch jupyter with anaconda
+2- Copy the token on the terminal opened by anadonda
+3- Paste the token when asked in pycharm notebook
